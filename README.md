@@ -186,8 +186,8 @@ Trouver une alternance en Data Analyst afin de :
 
 📬 Me contacter :
 
-💼 LinkedIn : www.linkedin.com/in/enzo-lacordaire-7434b413a
-📧 Email : lacordaireenzo@gmail.com
+- 💼 LinkedIn : www.linkedin.com/in/enzo-lacordaire-7434b413a
+- 📧 Email : lacordaireenzo@gmail.com
 
 ⸻
 
