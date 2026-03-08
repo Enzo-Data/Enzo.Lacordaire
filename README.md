@@ -19,7 +19,7 @@ Construire plusieurs projets d’analyse de données afin de développer mes com
 🧰 Compétences en développement
 
 📊 Analyse de données
-  •	Nettoyage et préparation des données
+    •	Nettoyage et préparation des données
 	•	Analyse exploratoire
 	•	Interprétation des données
 	•	Data storytelling
